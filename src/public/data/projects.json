@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "Netflix clone",
+            "image": "netflix",
+            "stack": "React Js, Express Js, MongoDB, Tailwind CSS",
+            "source": "https://github.com/KaraleTanmay/netflix-clone-react-frontend",
+            "description": "This is a full  netflix light clone which have provides functionality of watching trailers and movies according to selected genere and also has working authentication and authorizastion system"
+        },
+        {
+            "name": "Tour and Tourism API",
+            "image": "tours",
+            "stack": "Express Js, MongoDB, Pug",
+            "source": "https://github.com/KaraleTanmay/Tour-and-tourism-API-with-backend",
+            "description": "This is a fully functional API which provides various tours and their information to clients and also has working authentication and authorizastion system,"
+        },
+        {
+            "name": "Text Converter",
+            "image": "text",
+            "stack": "React Js",
+            "source": "https://github.com/KaraleTanmay/Text-converter",
+            "description": "This is a simple react app which performs various operations on entered text such as capitalizing words or replacing a specific word"
+        },
+        {
+            "name": "Infinity Quest-Pygame",
+            "image": "game",
+            "stack": "Python, Pygame, Photoshop",
+            "source": "https://github.com/KaraleTanmay/Infinity-Quest",
+            "description": "This is a 2D game made with pygame. The game is similar to famous game super mario. This game won Python Hackathon 2022,IIT Bombay"
+        }
+    ]
+}

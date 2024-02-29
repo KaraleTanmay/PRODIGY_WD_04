@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "name": "Front-end",
+            "stack": [
+                "React Js",
+                "Tailwind CSS",
+                "BootStrap"
+            ]
+        },
+        {
+            "name": "Back-end",
+            "stack": [
+                "Node Js",
+                "Express Js",
+                "MongoDB",
+                "Postman"
+            ]
+        },
+        {
+            "name": "Languages",
+            "stack": [
+                "Python",
+                "C & C++",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Designing",
+            "stack": [
+                "Photoshop",
+                "Blender 3D"
+            ]
+        }
+    ]
+}
